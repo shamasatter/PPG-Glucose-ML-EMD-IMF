@@ -1,4 +1,4 @@
-# KMU-Thesis-SS: PPG-Based Glucose Prediction Using Machine Learning
+# PPG-Based Glucose Prediction Using Machine Learning
 
 ## Overview
 
@@ -14,7 +14,7 @@ This repository contains the thesis work on **Photoplethysmography (PPG) Signal 
 ## Repository Structure
 
 ```
-KMU-Thesis-SS/
+HbA1c-PPG-Glucose-ML/
 ├── Model/                           # Trained models directory
 ├── trail/                           # Experimental trials and variations
 ├── README.md                        # This file

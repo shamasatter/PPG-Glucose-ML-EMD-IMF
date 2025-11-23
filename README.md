@@ -182,7 +182,7 @@ The repository includes comprehensive visualization outputs showing model perfor
 
 ## License
 
-This project is licensed under the **GNU Lesser General Public License v2.1 (LGPL-2.1)**. See the `LICENSE` file for more details.
+This project is licensed under the **MIT**. See the `LICENSE` file for more details.
 
 ## Author
 
